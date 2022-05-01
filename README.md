@@ -2,8 +2,7 @@
 # Github-Commit-Rules
 8 rules for making awesome commit message
 
-공부 출처
-출처 : https://djkeh.github.io/articles/How-to-write-a-git-commit-message-kor/
+공부 출처: https://djkeh.github.io/articles/How-to-write-a-git-commit-message-kor/
 
 # 커밋 메세지를 올바르게 작성하기 위한 8가지 유의사항.
 
